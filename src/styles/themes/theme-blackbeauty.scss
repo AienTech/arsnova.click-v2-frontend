@@ -120,7 +120,7 @@ $colorChangingClick: (
   100: (fg: #b22222, bg: transparent)
 );
 
-$logo-bg: transparent;
+$logo-bg: transparent !important;
 $logo-fg: (".arsnova-logo-ars": white, ".arsnova-logo-nova": white, ".arsnova-logo-click": $warning, ".westermann": white);
 
 $popover-body-color: black;
