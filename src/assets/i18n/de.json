@@ -893,8 +893,8 @@
       "play": "Play",
       "stop": "Stop",
       "allow-stream-to-clients": {
-        "title": "Audio für Player aktivieren",
-        "label": "Dies aktiviert die Musikwiedergabe für Quizmaster und Player. Da die Startzeit der Musik nicht synchron läuft, empfehlen wir die Aktivierung nur, wenn die Player nicht im selben Raum sitzen."
+        "title": "Audio für Player",
+        "label": "Dies aktiviert die Musikwiedergabe für Quizmaster und Spieler. Da die Startzeit der Musik nicht synchronisiert ist, empfehlen wir, sie nur dann zu aktivieren, wenn sich die Spieler nicht im selben Raum befinden."
       }
     },
     "splashscreen": {

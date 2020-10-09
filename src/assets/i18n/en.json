@@ -893,8 +893,8 @@
       "play": "Play",
       "stop": "Stop",
       "allow-stream-to-clients": {
-        "title": "Allow audio for attendees",
-        "label": "This deactivates the audio for the quiz master and activates it for the attendees. Since the start time of the music is not synchronized it is only advised to activate this feature if the attendees are participating remotely at the quiz."
+        "title": "Audio for players",
+        "label": "This activates music playback for quizmasters and players. Since the start time of the music is not synchronized, we recommend to activate it only if the players are not in the same room."
       }
     },
     "splashscreen": {
