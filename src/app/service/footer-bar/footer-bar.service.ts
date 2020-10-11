@@ -148,7 +148,7 @@ export class FooterBarService {
   });
   public footerElemTheme: IFooterBarElement = new FooterbarElement({
     id: 'theme',
-    iconClass: ['fas', 'apple-alt'],
+    iconClass: ['fas', 'palette'],
     textClass: 'footerElementText',
     textName: 'region.footer.footer_bar.style',
     selectable: false,
@@ -172,7 +172,7 @@ export class FooterBarService {
   });
   public footerElemHashtagManagement: IFooterBarElement = new FooterbarElement({
     id: 'sessionManagement',
-    iconClass: ['fas', 'wrench'],
+    iconClass: ['fas', 'folder'],
     textClass: 'footerElementText',
     textName: 'region.footer.footer_bar.my-quizzes',
     selectable: false,

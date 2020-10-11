@@ -10,7 +10,7 @@ import {
   faAngleDoubleUp,
   faAngleDown,
   faAngleUp,
-  faAppleAlt,
+  faPalette,
   faArrowDown,
   faArrowsAlt,
   faArrowUp,
@@ -80,7 +80,7 @@ import {
   faUsers,
   faVolumeMute,
   faVolumeUp,
-  faWrench,
+  faFolder,
 } from '@fortawesome/free-solid-svg-icons';
 import { NgbAlertModule, NgbModalModule, NgbPopoverModule, NgbTooltipModule, NgbTypeaheadModule } from '@ng-bootstrap/ng-bootstrap';
 import { TranslateModule } from '@ngx-translate/core';
@@ -138,9 +138,9 @@ export class SharedModule {
     library.addIcons(faSpinner);
     library.addIcons(faInfoCircle);
     library.addIcons(faGlobe);
-    library.addIcons(faAppleAlt);
+    library.addIcons(faPalette);
     library.addIcons(faArrowsAlt);
-    library.addIcons(faWrench);
+    library.addIcons(faFolder);
     library.addIcons(faUpload);
     library.addIcons(faLanguage);
     library.addIcons(faUnlock);
