@@ -257,7 +257,7 @@
         "label": "Tag auswählen",
         "placeholder": "Gib hier einen Tag ein, mit dem ein Quiz zusammengestellt werden soll.",
         "validation-error": {
-          "invalid-tag": "Der eingegebene Tag ist leider nicht verfügbar. Bitte klicke auf einen Tag in der Auswahlliste."
+          "invalid-tag": "Der eingegebene Tag ist leider nicht verfügbar. Bitte klick auf einen Tag in der Auswahlliste."
         }
       },
       "tag-question-amount": {
@@ -299,7 +299,7 @@
       "show_answer_content_on_buttons": "Antworttext auf Abstimmbuttons?",
       "show_one_answer_per_row": "Zeige nur eine Antwortoption pro Zeile?",
       "multiple_selection_survey": "Mehrere Optionen auswählbar?",
-      "emoji_info": "Du kannst auch Emojis einfügen! <a href='http://www.webpagefx.com/tools/emoji-cheat-sheet/' target='_blank'><img class='w-40px' src='/assets/images/emojis/smile.png' alt='smiling_emoji.png'/></a>",
+      "emoji_info": "Du kannst auch Emojis aus dem Netz einfügen: <a href='http://www.webpagefx.com/tools/emoji-cheat-sheet/' target='_blank'><img class='w-40px' src='/assets/images/emojis/smile.png' alt='smiling_emoji.png'/></a>",
       "description": {
         "default_answer_row": "Ziehe diesen Block in die Liste der Antwortoptionen oder klick auf ihn, um eine neue Antwort einzufügen.",
         "added_answers": "Hier siehst du die Antwortoptionen der Frage. Du kannst die Reihenfolge per Drag & Drop ändern.",
@@ -647,7 +647,7 @@
       "title": "Organisiere deine Teams",
       "max-users": "Maximale Teamgröße",
       "autojoin-to-team": "Automatisch auf die Teams verteilen?",
-      "create-team-placeholder": "Gib hier den Namen des Teams ein. Starte mit einem Doppelpunkt, um nach Emojis zu suchen.",
+      "create-team-placeholder": "Teammame oder Emoji (Doppelpunkt eingeben)",
       "create-team": "Team hinzufügen",
       "current-teams": "Die Teams:",
       "no-current-teams": "Kein Team bisher hinzugefügt",
